@@ -1,4 +1,4 @@
-name run autotests
+name: run autotests
 
 
 on:
